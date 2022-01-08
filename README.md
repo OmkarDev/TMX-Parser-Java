@@ -13,7 +13,7 @@ void render(Graphics2D g){
 
 ```
 
-**"tmx.tiles[j][i]" returns buffered image of J'th and I'th Column.**
+**"tmx.tiles[j][i]" returns buffered image of J'th Row and I'th Column.**
 Above code shows full map given by tiled.
 
 ```java
